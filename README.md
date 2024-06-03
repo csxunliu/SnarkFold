@@ -1,2 +1,2 @@
 # SnarkFold
-A novel proof aggregation scheme based on folding scheme
+SnarkFold: A novel proof aggregation scheme based on folding scheme
